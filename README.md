@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 24, 2026, 04_19_08 PM" src="https://github.com/user-attachments/assets/9132b1e0-3bfa-4378-9394-4e85dd091256" />
+
 <h1 align="center">Hi 👋, I'm Avinash Rajak</h1>
 <h3 align="center">Senior Data Engineer | Snowflake | Azure | Databricks</h3>
 
