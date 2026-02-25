@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Feb 24, 2026, 04_19_08 PM" src="https://github.com/user-attachments/assets/9132b1e0-3bfa-4378-9394-4e85dd091256" />
+<img width="1342" height="428" alt="Linkindin_banner" src="https://github.com/user-attachments/assets/a6082971-5d59-4b78-8aee-184e6d411cd1" />
 
 <h1 align="center">Hi 👋, I'm Avinash Rajak</h1>
 <h3 align="center">Senior Data Engineer | Snowflake | Azure | Databricks</h3>
